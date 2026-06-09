@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         svrforum
 // @namespace    http://tampermonkey.net/
-// @version      2026-06-09
+// @version      20260609
 // @description  try to take over the world!
 // @author       You
 // @match        https://svrforum.com/
