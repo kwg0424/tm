@@ -1,0 +1,4 @@
+const content = document.querySelector('body > div.sl-layout');
+if (content && !content.classList.contains('bc-black')) {
+	changeMode('db_lotus');
+}
