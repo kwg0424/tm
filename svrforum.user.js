@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         New Userscript
+// @name         svrforum
 // @namespace    http://tampermonkey.net/
 // @version      2026-06-09
 // @description  try to take over the world!
