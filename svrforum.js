@@ -7,6 +7,8 @@
 // @match        https://svrforum.com/
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=svrforum.com
 // @grant        none
+// @updateURL    https://raw.githubusercontent.com/kwg0424/tm/refs/heads/main/svrforum.user.js
+// @downloadURL  https://raw.githubusercontent.com/kwg0424/tm/refs/heads/main/svrforum.user.js
 // ==/UserScript==
 
 (function() {
